@@ -26,4 +26,3 @@ Data has been extracted, transformed and loaded with Mage AI tool.
 Query has been performed using BigQuery and loaded to LookerStudio to prepare interactive dashboard that helps anayze data such as revenue volume, locations and payment types.<br>
 [Link to dashboard](https://lookerstudio.google.com/s/nPvVs8gSnMg)
 <img src="https://github.com/amatacz/uber-data-engineering/blob/main/uber_dashboard.png" style="max-width: 100%;"/>
-
